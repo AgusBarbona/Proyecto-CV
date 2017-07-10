@@ -1,0 +1,72 @@
+body { background-image:url(fondo.jpg);
+	}
+h1{
+	color:#5b2d78;
+    background-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzVKRzGVfo81eNLg39xdf1eYp5FtIqloC28x2VcHhCmQH8Sdxv;
+    margin-left:8.5%;
+    text-decoration: underline;
+    }
+div#derecha{
+ 	float:left;
+ 	width:25%;
+  	margin-left: 5%;
+
+ }
+
+img{ size: 30px;
+	margin:0px 50px 10px 50px;
+	border: 3px dashed #138D75;
+	padding:4px;
+}
+ul#link 
+    {content:20px 20px 20px 10px;
+ 	border:3px outset #138D75;
+    font-size:17px;
+    margin-right:70px;
+    color:#5b2d78; 
+    margin-left:50px;
+
+}
+h2{ color: #138D75;
+	font-size:20px;
+	margin:0% 60% 2% 5%;
+	font-family:Century,cursive;
+	border:2px solid #138D75;
+	padding-left: 4%;
+	padding-right:4%;
+	clear:left;
+}
+div#izquierda{
+	
+	float: right;
+	width:65%;
+
+}
+
+div.puntos{
+	color: #5b2d78 ;
+	font-size: 20px;
+	margin:20px;
+	text-decoration: underline;
+
+}
+h3{
+	font-size:18px;
+	margin:20px 60px 30px 40px;
+	border:2px solid #5b2d78 ;
+	padding-left: 40px;
+	padding-right: 30px;
+}
+ul#lugares{
+	margin-right: 10%;
+	font-size: 18px;
+
+}
+#datos{
+	font-size:18px;
+}
+p{
+	font-size:20px;
+	padding-left:27px;
+	padding-right:40px;
+	clear:right;}
